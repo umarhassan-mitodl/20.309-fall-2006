@@ -1,0 +1,23 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: cf00d1f2-3f69-e47a-ebde-6d915c4d3e29
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 97d5e097-466d-1a3d-3330-a6c5d05c1cdc
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 14199d62-da87-c70f-bae4-6d0285c23fa0
+  name: Labs
+  pageRef: /pages/labs
+  weight: 30
+- identifier: 544c7eea-11d8-a7e0-145c-35c32ce17be6
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 6e300407-a663-41a2-9f9c-e68740bc6891
+  name: Tools
+  pageRef: /video_galleries/tools
+  weight: 50
