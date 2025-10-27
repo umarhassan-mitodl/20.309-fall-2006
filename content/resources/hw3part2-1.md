@@ -5,8 +5,6 @@ description: 'Homework assignment on sensitive optoelectronic detectors: seeing 
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/5e769d7778dabf797e7251786a5123ca_hw3part2.pdf
 file_size: 162889
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture supplement on convolution clarification examples.
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/898a07d02c6b861a8e8b06acc7bcbc60_convclar.pdf
 file_size: 19186
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

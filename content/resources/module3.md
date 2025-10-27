@@ -7,8 +7,6 @@ description: Lab exercise on fluorescence microscope construction, major microsc
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/a680299365123dbda752e02113b97e99_module3.pdf
 file_size: 448516
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

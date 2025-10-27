@@ -4,8 +4,6 @@ description: Tutorial on curve fitting with MATLAB.
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/3f530c9d373a344fd90da65ba9175018_matlabtutorialv2.pdf
 file_size: 36303
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

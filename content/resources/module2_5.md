@@ -4,8 +4,6 @@ description: Lab exercise on sampling, aliasing, and digital data.
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/f357cf9b7e84cf4df25328a70711588d_module2_5.pdf
 file_size: 112166
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

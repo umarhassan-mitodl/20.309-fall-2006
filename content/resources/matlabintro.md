@@ -4,8 +4,6 @@ description: Tutorial on the basics of MATLAB.
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/b5668108f2e65c595e6f8870124632a8_matlabintro.pdf
 file_size: 119816
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

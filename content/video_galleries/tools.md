@@ -2,8 +2,6 @@
 content_type: video_gallery
 description: This section provides video tutorials that explore the theory and practice
   of using the lab AFM, which differs somewhat from standard commercial AFM systems.
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Tools
@@ -36,11 +34,11 @@ Following the Fall 2006 term, these videos were produced from a series of AFM tu
 Background on 20.309 Lab Setups
 -------------------------------
 
-[An Atomic Force Microscope (AFM) For The Instructional Laboratory](http://www.media.mit.edu/nanoscale/courses/AFMsite/)
+{{% resource_link "b64ea3c1-aec6-4ef2-832f-50560cf1da1d" "An Atomic Force Microscope (AFM) For The Instructional Laboratory" %}}
 
-[Optical Trap](http://www.openwetware.org/wiki/Optical_Trap)
+{{% resource_link "9373b4c3-70c5-48a8-915f-a97874f9a2a8" "Optical Trap" %}}
 
 Other Resources
 ---------------
 
-[OpenWetWare](http://www.openwetware.org/wiki/Main_Page) is an open information-sharing resource among researchers and groups who are working in biology and biological engineering.
+{{% resource_link "ccf5ddde-8f80-4e22-91ca-841bd9ba6801" "OpenWetWare" %}} is an open information-sharing resource among researchers and groups who are working in biology and biological engineering.

@@ -5,8 +5,6 @@ description: Lab exercise on the optical trapping system, calibration, and the E
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/5fba7aeebcf5e17aaf941340c0a57efe_module4.pdf
 file_size: 317524
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

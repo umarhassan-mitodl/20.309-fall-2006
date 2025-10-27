@@ -4,8 +4,6 @@ description: ''
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/46df619b748ae8f3f7512c19b66127a9_tutorial2.pdf
 file_size: 163152
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
